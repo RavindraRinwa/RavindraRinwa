@@ -101,7 +101,7 @@
 
 <h3 align="left">📄 Resume</h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1C5I-4lJ-hXL5bGQitZjyA2uk9fD-9f3W/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1AcZgtn3py65kkc30woZootVRJILYA068/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Here-%230077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
