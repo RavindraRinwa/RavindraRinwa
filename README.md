@@ -14,8 +14,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
@@ -37,13 +35,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavindraRinwa&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="RavindraRinwa" />
 </p>
-
----
-
-<h3 align="left">🔝 Top Contributed Repo</h3>
-![](https://github-contributor-stats.vercel.app/api?username=RavindraRinwa&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
@@ -101,9 +92,6 @@
   <a href="https://codeforces.com/profile/Ravindra_Rinwa" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ravindra_Rinwa" alt="Codeforces" height="250" />
   </a>
-  <a href="https://www.codechef.com/users/ravindra2093" target="_blank">
-    <img src="https://cp-logo.vercel.app/codechef/ravindra2093" alt="CodeChef">
-  </a>
   <a href="https://leetcode.com/ravindrarinwa2093" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ravindrarinwa2093?ext=contest" alt="Leetcode" height="250" />
   </a>
@@ -113,7 +101,7 @@
 
 <h3 align="left">📄 Resume</h3>
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1C5I-4lJ-hXL5bGQitZjyA2uk9fD-9f3W/view?usp=sharing](https://drive.google.com/file/d/1AcZgtn3py65kkc30woZootVRJILYA068/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1C5I-4lJ-hXL5bGQitZjyA2uk9fD-9f3W/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Here-%230077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
